@@ -69,10 +69,11 @@ gcc main.c -o library
 
 
 Technologies Used
-	•	C Programming Language
-	•	File I/O (text/binary as implemented)
-	•	Structured programming with modular functions
-
+```
+-C Programming Language
+-File I/O (text/binary as implemented)
+-Structured programming with modular functions
+```
 My Role : 
 ```
 -Designed the full system architecture
