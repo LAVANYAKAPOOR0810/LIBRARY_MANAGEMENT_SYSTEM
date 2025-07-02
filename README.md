@@ -74,9 +74,9 @@ Technologies Used
 	•	Structured programming with modular functions
 
 My Role : 
-	•	Designed the full system architecture
-	•	Implemented secure login with password validation
-	•	Developed Admin and Student workflows
-	•	Managed inventory updates on issue/return
-	•	Built file handling for persistence
-	•	Ensured user-friendly CLI experience
+-Designed the full system architecture
+-Implemented secure login with password validation
+-Developed Admin and Student workflows
+-Managed inventory updates on issue/return
+-Built file handling for persistence
+-Ensured user-friendly CLI experience
