@@ -39,7 +39,7 @@ It supports Admin and Student roles, secure logins, book issuing/returning with 
 ---
 
 ##  Project Structure
-
+```
 LibraryManagementSystem/
 ├── main.c             → Entry point with menus
 ├── admin.c            → Admin functions
@@ -47,7 +47,7 @@ LibraryManagementSystem/
 ├── books.c            → Book data handling
 ├── files.c            → File I/O utilities
 └── README.md          → Project documentation
-
+```
 
 # Password Policy
 
@@ -74,6 +74,7 @@ Technologies Used
 	•	Structured programming with modular functions
 
 My Role : 
+```
 -Designed the full system architecture
 -Implemented secure login with password validation
 -Developed Admin and Student workflows
